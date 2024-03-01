@@ -1,7 +1,7 @@
 # Cheat sheet for sysadmin
 
 ### Find folder or file without knowing full path
-dir /S /b *file or foldername*
+dir /S /b '*'file or foldername'*'
 ### List dir
 dir
 ### find on any device
